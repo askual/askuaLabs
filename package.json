@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/askual/askualabs#readme",
   "dependencies": {
+    "express": "^4.16.2",
     "phaser-ce": "^2.9.4"
   }
 }
