@@ -1,0 +1,22 @@
+{
+  "name": "askualabs",
+  "version": "0.0.1",
+  "description": "a science simulation framework based on phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askual/askualabs.git"
+  },
+  "author": "Askual Technologies",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/askual/askualabs/issues"
+  },
+  "homepage": "https://github.com/askual/askualabs#readme",
+  "dependencies": {
+    "phaser-ce": "^2.9.4"
+  }
+}
